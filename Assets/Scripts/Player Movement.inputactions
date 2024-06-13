@@ -2,14 +2,14 @@
     "name": "Player Movement",
     "maps": [
         {
-            "name": "Move",
+            "name": "Game",
             "id": "508555d2-6690-4815-aaf2-35b6a7b77861",
             "actions": [
                 {
                     "name": "Movement",
                     "type": "Value",
                     "id": "82d203ff-6d68-45d6-99cd-d08c5515b5e7",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
